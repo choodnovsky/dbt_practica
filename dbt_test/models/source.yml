@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: dvd_rental
+    database: dvdrental
+    schema: public
+    tables:
+      - name: actor
+      - name: rental
+      - name: inventory
