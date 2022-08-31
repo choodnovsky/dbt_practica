@@ -1,1 +1,0 @@
-select * from "dvdrental"."public"."rental"
