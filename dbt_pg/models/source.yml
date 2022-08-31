@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: dvd_rental
+    database: dvdrental
+    schema: public
+    tables:
+      - name: payment
+      - name: customer
+      - name: city
+      - name: country
+      - name: rental
+      - name: address
